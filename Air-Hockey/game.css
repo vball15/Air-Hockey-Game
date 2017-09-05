@@ -1,0 +1,19 @@
+body {
+  /*background-color: #8ed9f1;*/
+  background-image: url("background.jpg");
+}
+
+h2{
+  width: 900px;
+  margin: auto;
+  text-align: center;
+  padding: 8px;
+  color: white;
+}
+
+canvas {
+    cursor: none;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+}
